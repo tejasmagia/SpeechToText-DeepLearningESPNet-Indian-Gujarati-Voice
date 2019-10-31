@@ -1,10 +1,10 @@
 # SpeechToText-DeepLearningESPNet-Indian-Gujarati-Voice
 
 This project has 2 parts to it,
-1] Data Prepartion for generating training data
-2] Using training data implement Indian Gujarati ASR model
+1] Data Creation for Model training
+2] Using generated data implement Indian Gujarati ASR model
 
-Steps 1] Data Prepartion for generating training data
+Steps 1] Data Creation for Model training – Project Completed
 
 Google Sppech2Text Gujarati Text conversion
 
